@@ -1,0 +1,46 @@
+.pic {
+    text-align: center;
+    position: relative;
+    height: 455px;
+}
+.blur {
+    height: 100%;
+}
+.overlay {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+}
+circle {
+   opacity: 1;
+   -webkit-transition: opacity 200ms linear;
+   transition: opacity 200ms linear;
+}
+
+.slide {
+/*    padding-top: 36px;*/
+    /*padding-bottom: 50px;*/
+
+}
+
+
+.long_form {
+/*    padding-top: 20px;*/
+}
+
+#pngFrame {
+    z-index:0;
+}
+
+
+#pngTarget {
+    z-index:1;
+}
+
+
+.visualStimulus td
+{
+/*    padding:0 15px 0 15px;*/
+}
+
