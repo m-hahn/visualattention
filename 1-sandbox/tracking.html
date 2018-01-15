@@ -53,11 +53,11 @@ $(function(){
     
 </head>
 
-<body onload="init();">
+<body onload="init();" style="font-family:Sans-Serif; line-height: 180%;">
   <noscript>This task requires JavaScript.</noscript>
 
 
-<div class="slide" id="consent">
+<div class="slide" id="consent" style="font-size: 110%;">
 <span id="consent-form">
 <br/><b>PLEASE RETURN THE HIT.</b> <p>There is a technical
 problem and we cannot assure that you are fully aware of the content
@@ -70,7 +70,7 @@ us know about this problem, though this is not required.</p>
 
 
 
-  <div class="slide" id="display">
+  <div class="slide" id="display" style="font-size: 100%; line-height: 100%;">
 
 
 <!-- smdsgn at https://stackoverflow.com/questions/35099681/unblur-part-of-an-image-where-the-mouse-hovers-over-->
@@ -93,7 +93,7 @@ us know about this problem, though this is not required.</p>
 </div>-->
 
 
-<p><div id="question" style="font-family:Sans-Serif;"></div></p>
+<p><div id="question"></div></p>
 
 
 
@@ -123,14 +123,14 @@ us know about this problem, though this is not required.</p>
 <br/>
 
 
-<div id="preview_button"><button onclick="_s.button()">Show Question</button></div>
+<div id="preview_button"><button onclick="_s.button()" style="font-size: 80%">Show Question</button></div>
 
 
 
 <div id="answer_button">
 <table>
 <tr><td>      <p>Answer: <input type="text" id="answer"/></p></td>
-<td>    <button onclick="_s.button()">Submit</button></td>
+<td>    <button onclick="_s.button()" style="font-size: 80%">Submit</button></td>
 </tr>
 </table>
 </div>
@@ -146,20 +146,20 @@ Please provide an answer!
 
 
 
-  <div class="slide" id="i0" >
+  <div class="slide" id="i0" style="font-size: 120%;">
     <!--<img src="../_shared/images/cocologo.png" alt="Stanford Linguistics" id="cocologo"></img>-->
     <p id="cocolab">Stanford Linguistics</p>
     <p id="instruct-text">This HIT involves looking at images and answering questions. The task should take about 10 minutes. Please pay attention. Thanks! <br/>  <br/> We'll be posting a series of similar hits. Please accept only one of these. </p>
 
 <p>Important Note: This experiment involves colors. If you are colorblind, please return the HIT.</p>
     
-    <button id="start_button" type="button">Start Experiment</button>
+    <button id="start_button" type="button" style="font-size: 80%">Start Experiment</button>
     <p id="legal">Legal information: By answering the following questions, you are participating in a study being performed by cognitive scientists in the Stanford Department of Linguistics. If you have questions about this research, please contact Michael Hahn at <a href="mailto://mhahn2@stanford.edu">mhahn2@stanford.edu</a>. You must be  at least 18 years old to participate. Your participation in this research is voluntary. You may decline to answer any or all of the following questions. You may decline further participation, at any time, without adverse consequences. Your anonymity is assured; the researchers who have requested your participation will not receive any personal information about you.</p>
   </div>
 
 
 
-  <div class="slide" id="instructions1">
+  <div class="slide" id="instructions1" style="font-size: 120%">
     <h3>Instructions</h3>
 <p>
 You will see a sequence of images and questions about them.
@@ -175,7 +175,7 @@ Each image will show an arrangement of cubes, spheres, and cylinders.
 They come in two materials: shiny metal and matte rubber.
 They differ in size and color.
 </p>
-    <button onclick="_s.button()">Continue</button>
+    <button onclick="_s.button()" style="font-size: 80%">Continue</button>
   </div>
 
 
@@ -237,7 +237,7 @@ They differ in size and color.
       <textarea id="comments" rows="3" cols="50"></textarea>
 <!--      <p>Also, please feel free to share your experience on Turkopticon!</p>-->
       <br/>
-      <button onclick="_s.submit()">Submit</button>
+      <button onclick="_s.submit()" style="font-size: 80%">Submit</button>
     </div>
   </div>
 
