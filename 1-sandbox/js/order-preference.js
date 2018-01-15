@@ -109,7 +109,7 @@ function make_slides(f) {
      
             counter += 1
        
-            if(counter % 10 == 0) {    
+            if(counter % 1 == 0) {    
                tracked.push([svgP.x, svgP.y])
             }
     
