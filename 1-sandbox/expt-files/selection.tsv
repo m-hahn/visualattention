@@ -1,0 +1,160 @@
+0	CLEVR_train_000000.png	yes	Are there more big green things than large purple shiny cubes?
+1	CLEVR_train_000000.png	2	How many other things are there of the same shape as the tiny cyan matte object?
+2	CLEVR_train_000000.png	no	Is the color of the large sphere the same as the large matte cube?
+3	CLEVR_train_000000.png	rubber	What material is the big object that is right of the brown cylinder and left of the large brown sphere?
+4	CLEVR_train_000000.png	large	How big is the brown shiny sphere?
+10	CLEVR_train_000001.png	0	How many gray rubber cubes are the same size as the yellow block?
+11	CLEVR_train_000001.png	cube	There is a rubber thing that is the same color as the cylinder; what shape is it?
+12	CLEVR_train_000001.png	yes	Are there any tiny green rubber things that have the same shape as the large blue matte thing?
+13	CLEVR_train_000001.png	blue	The matte ball that is the same size as the gray rubber object is what color?
+14	CLEVR_train_000001.png	brown	There is a small matte block that is on the left side of the large rubber thing that is left of the gray ball; what is its color?
+20	CLEVR_train_000002.png	no	There is a small object; is it the same color as the object in front of the gray shiny thing?
+21	CLEVR_train_000002.png	yellow	There is a thing that is both to the right of the big rubber cube and left of the small gray ball; what color is it?
+22	CLEVR_train_000002.png	0	There is a small gray metal ball; how many gray balls are on the right side of it?
+23	CLEVR_train_000002.png	1	What number of things are large yellow metallic balls or metallic things that are in front of the gray metallic sphere?
+24	CLEVR_train_000002.png	no	There is a metal object in front of the gray metal object; are there any big blue rubber blocks in front of it?
+30	CLEVR_train_000003.png	rubber	What material is the tiny cube that is to the right of the blue thing?
+31	CLEVR_train_000003.png	0	What number of purple objects are the same shape as the gray thing?
+32	CLEVR_train_000003.png	rubber	What is the material of the small thing to the left of the small purple block in front of the small cyan rubber cube?
+33	CLEVR_train_000003.png	no	Are there any large cyan spheres made of the same material as the large green sphere?
+34	CLEVR_train_000003.png	cube	What is the shape of the tiny cyan matte thing?
+40	CLEVR_train_000004.png	1	What number of objects are both to the left of the purple matte cube and right of the small purple metal sphere?
+41	CLEVR_train_000004.png	yes	Does the shiny object in front of the purple matte block have the same size as the small metallic cylinder?
+42	CLEVR_train_000004.png	no	Is there another tiny sphere that has the same color as the ball?
+43	CLEVR_train_000004.png	small	The purple ball that is the same material as the tiny cyan cylinder is what size?
+44	CLEVR_train_000004.png	no	Is the number of cyan things in front of the purple matte cube greater than the number of metal cylinders left of the small metal sphere?
+50	CLEVR_train_000005.png	cube	The small object to the left of the large matte object that is to the right of the big gray object is what shape?
+51	CLEVR_train_000005.png	yes	There is a yellow object on the right side of the large yellow rubber cube; is its shape the same as the large gray metal object?
+52	CLEVR_train_000005.png	blue	There is a rubber thing that is in front of the purple object; what color is it?
+53	CLEVR_train_000005.png	2	How many blocks are red metal things or big green metal things?
+54	CLEVR_train_000005.png	large	What size is the rubber cube that is right of the big thing behind the small red metal object?
+60	CLEVR_train_000006.png	2	How many other objects are the same material as the blue object?
+61	CLEVR_train_000006.png	no	Is the size of the green cube the same as the matte sphere that is in front of the green thing?
+62	CLEVR_train_000006.png	green	The tiny cube has what color?
+63	CLEVR_train_000006.png	sphere	There is a big metallic object behind the shiny object in front of the shiny object that is left of the cyan thing; what is its shape?
+64	CLEVR_train_000006.png	metal	There is a cylinder that is right of the cylinder that is behind the large metal cylinder; what is it made of?
+70	CLEVR_train_000007.png	no	Is the material of the green object the same as the small block that is on the right side of the green metallic thing?
+71	CLEVR_train_000007.png	3	What number of objects are metallic cubes that are in front of the blue matte cube or tiny things in front of the big yellow object?
+72	CLEVR_train_000007.png	1	What number of other things are there of the same color as the small sphere?
+73	CLEVR_train_000007.png	no	Are there more green metal cubes on the right side of the tiny blue matte cube than big things in front of the large yellow object?
+74	CLEVR_train_000007.png	yes	Is there any other thing that is the same size as the rubber cube?
+80	CLEVR_train_000008.png	metal	There is another small green thing that is the same shape as the green matte thing; what is it made of?
+81	CLEVR_train_000008.png	0	How many big green shiny blocks are there?
+82	CLEVR_train_000008.png	sphere	There is a small matte object that is in front of the small brown sphere; what shape is it?
+83	CLEVR_train_000008.png	brown	There is a matte sphere that is behind the ball that is in front of the rubber thing right of the small green matte object; what color is it?
+84	CLEVR_train_000008.png	cube	The green thing that is the same material as the small brown ball is what shape?
+90	CLEVR_train_000009.png	no	Is there anything else that has the same material as the tiny yellow object?
+91	CLEVR_train_000009.png	rubber	What is the material of the small cylinder that is the same color as the matte cube?
+92	CLEVR_train_000009.png	cyan	There is another tiny matte object that is the same shape as the tiny gray object; what color is it?
+93	CLEVR_train_000009.png	no	Is there any other thing that is the same shape as the large gray object?
+94	CLEVR_train_000009.png	yes	There is a tiny object behind the yellow cylinder; is its shape the same as the gray object on the left side of the small cyan object?
+100	CLEVR_train_000010.png	yes	There is a small matte cylinder; is it the same color as the tiny shiny cube that is behind the large red metallic ball?
+101	CLEVR_train_000010.png	yes	Are there any green metal objects of the same shape as the small red object?
+102	CLEVR_train_000010.png	4	How many objects are either small green matte cylinders or small shiny objects to the right of the green matte thing?
+103	CLEVR_train_000010.png	6	What number of other things are the same material as the red cube?
+104	CLEVR_train_000010.png	2	How many things are rubber balls or big red shiny things?
+110	CLEVR_train_000011.png	2	How many other things are the same color as the small shiny cylinder?
+111	CLEVR_train_000011.png	rubber	What material is the big purple cylinder?
+112	CLEVR_train_000011.png	no	Does the object on the right side of the cyan block have the same size as the small purple cylinder?
+113	CLEVR_train_000011.png	small	The other shiny object that is the same shape as the blue object is what size?
+114	CLEVR_train_000011.png	yes	Is the number of large metal cylinders that are left of the tiny cyan block the same as the number of purple matte objects that are in front of the brown rubber cylinder?
+120	CLEVR_train_000012.png	no	There is a small metal cylinder in front of the green shiny object; is it the same color as the thing to the right of the green matte cylinder?
+121	CLEVR_train_000012.png	no	Are there any other things that have the same size as the cyan metallic cylinder?
+122	CLEVR_train_000012.png	no	Are there any small yellow spheres in front of the brown thing?
+123	CLEVR_train_000012.png	0	How many other tiny metal objects have the same shape as the brown thing?
+124	CLEVR_train_000012.png	green	The cylinder that is on the right side of the tiny shiny cylinder in front of the tiny green cylinder left of the small green rubber thing is what color?
+130	CLEVR_train_000013.png	gray	There is a rubber cylinder that is behind the tiny blue matte block; what color is it?
+131	CLEVR_train_000013.png	2	What number of blue things are either tiny matte blocks or large rubber objects?
+132	CLEVR_train_000013.png	blue	What is the color of the large rubber cylinder?
+133	CLEVR_train_000013.png	yes	Is there anything else that has the same material as the sphere?
+134	CLEVR_train_000013.png	no	Are there fewer large red metallic cylinders on the left side of the small gray rubber thing than metallic cylinders behind the large blue cylinder?
+140	CLEVR_train_000014.png	cube	The small red thing that is made of the same material as the tiny blue sphere is what shape?
+141	CLEVR_train_000014.png	no	Are there more small blue spheres than tiny green things?
+142	CLEVR_train_000014.png	yes	Does the small ball left of the small red rubber cube have the same color as the rubber sphere that is behind the blue ball?
+143	CLEVR_train_000014.png	yes	Does the green sphere that is behind the small shiny thing have the same material as the tiny object that is in front of the small green shiny ball?
+144	CLEVR_train_000014.png	0	What number of other red matte cubes have the same size as the cube?
+150	CLEVR_train_000015.png	rubber	What is the material of the brown cylinder that is the same size as the block?
+151	CLEVR_train_000015.png	sphere	What shape is the yellow object that is the same size as the rubber block?
+152	CLEVR_train_000015.png	yes	There is a metal object that is to the right of the yellow thing; is its shape the same as the large rubber thing to the left of the rubber block?
+153	CLEVR_train_000015.png	no	Is the sphere behind the brown shiny ball made of the same material as the yellow sphere?
+154	CLEVR_train_000015.png	yes	Is the number of brown rubber objects to the left of the purple cube greater than the number of brown matte cylinders in front of the cylinder?
+160	CLEVR_train_000016.png	no	Is there a small purple cylinder that has the same material as the yellow cylinder?
+161	CLEVR_train_000016.png	no	Is the number of tiny gray shiny things greater than the number of metal things?
+162	CLEVR_train_000016.png	yes	Does the cyan cylinder have the same material as the tiny gray cylinder?
+163	CLEVR_train_000016.png	1	What number of rubber objects are tiny things or cyan cylinders?
+164	CLEVR_train_000016.png	yellow	The matte thing that is the same size as the gray cylinder is what color?
+170	CLEVR_train_000017.png	1	What number of cyan objects have the same size as the yellow object?
+171	CLEVR_train_000017.png	yes	Is there a tiny brown shiny object?
+172	CLEVR_train_000017.png	no	Is there anything else of the same color as the big cylinder?
+173	CLEVR_train_000017.png	sphere	There is a tiny brown object that is made of the same material as the purple sphere; what is its shape?
+174	CLEVR_train_000017.png	purple	What is the color of the small ball behind the large metal cube that is on the left side of the object that is in front of the large cyan rubber ball?
+180	CLEVR_train_000018.png	yes	Are there more metal things than small green blocks?
+181	CLEVR_train_000018.png	1	What number of things are either big things behind the purple metal thing or green matte balls?
+182	CLEVR_train_000018.png	yes	Does the large sphere have the same material as the cylinder?
+183	CLEVR_train_000018.png	no	Do the large metal thing that is to the left of the cylinder and the large object in front of the small green object have the same shape?
+184	CLEVR_train_000018.png	yes	Is the size of the shiny cylinder the same as the thing behind the cube?
+190	CLEVR_train_000019.png	no	Are there more big yellow objects behind the rubber object than things right of the small yellow metal block?
+191	CLEVR_train_000019.png	green	There is a cube that is behind the big sphere; what is its color?
+192	CLEVR_train_000019.png	no	There is a tiny red metallic object that is behind the tiny red metallic sphere; is it the same shape as the tiny red metallic thing that is in front of the large red object?
+193	CLEVR_train_000019.png	no	Is there a red matte block of the same size as the red metal ball?
+194	CLEVR_train_000019.png	rubber	There is a large object that is behind the small red cylinder; what is its material?
+200	CLEVR_train_000020.png	cyan	What color is the metallic cylinder that is on the left side of the blue thing right of the tiny cylinder that is in front of the small gray object?
+201	CLEVR_train_000020.png	yes	There is a large thing on the right side of the blue shiny sphere; is its shape the same as the cyan object?
+202	CLEVR_train_000020.png	rubber	What is the small gray ball made of?
+203	CLEVR_train_000020.png	cube	There is a blue object in front of the big object that is right of the blue object on the left side of the tiny sphere; what is its shape?
+204	CLEVR_train_000020.png	1	What number of other things are there of the same shape as the big blue shiny thing?
+210	CLEVR_train_000021.png	no	Does the matte thing have the same size as the green object?
+211	CLEVR_train_000021.png	cube	What is the shape of the thing that is the same color as the small ball?
+212	CLEVR_train_000021.png	yes	Is there a object of the same color as the sphere?
+213	CLEVR_train_000021.png	large	What size is the matte cube that is the same color as the metal sphere?
+214	CLEVR_train_000021.png	0	What number of other things are there of the same shape as the blue metal thing?
+220	CLEVR_train_000022.png	no	Is there a tiny blue thing that has the same material as the blue block?
+221	CLEVR_train_000022.png	yes	There is a small rubber ball to the right of the gray cylinder to the left of the big matte cube; is there a cylinder that is on the right side of it?
+222	CLEVR_train_000022.png	1	How many other things are there of the same shape as the blue rubber thing?
+223	CLEVR_train_000022.png	red	What is the color of the tiny metal thing that is behind the cylinder that is in front of the big gray object on the left side of the tiny blue shiny thing?
+224	CLEVR_train_000022.png	1	What number of big gray shiny things are there?
+230	CLEVR_train_000023.png	yes	Is the number of cubes greater than the number of small blue metallic blocks?
+231	CLEVR_train_000023.png	blue	What color is the tiny shiny cylinder?
+232	CLEVR_train_000023.png	no	There is a tiny cylinder that is on the left side of the small purple rubber cylinder; is it the same color as the tiny rubber cylinder?
+233	CLEVR_train_000023.png	rubber	There is a tiny cylinder that is the same color as the block; what material is it?
+234	CLEVR_train_000023.png	0	What number of other small metal cylinders have the same color as the metal cylinder?
+240	CLEVR_train_000024.png	large	The red shiny object that is the same shape as the small blue object is what size?
+241	CLEVR_train_000024.png	cylinder	What shape is the small shiny object that is on the right side of the large rubber object that is behind the small blue shiny cube?
+242	CLEVR_train_000024.png	small	What is the size of the blue metallic cube?
+243	CLEVR_train_000024.png	cube	What is the shape of the tiny blue shiny thing?
+244	CLEVR_train_000024.png	no	Does the large red matte object have the same shape as the small thing right of the tiny metallic cube?
+250	CLEVR_train_000025.png	1	How many metallic objects are either blocks or small blue balls?
+251	CLEVR_train_000025.png	no	Are there any other tiny spheres made of the same material as the blue ball?
+252	CLEVR_train_000025.png	metal	What is the green cylinder made of?
+253	CLEVR_train_000025.png	cube	The tiny red object that is in front of the small shiny thing right of the small block behind the big green thing is what shape?
+254	CLEVR_train_000025.png	no	Are there more small cyan cubes that are right of the blue matte object than big brown matte cubes?
+260	CLEVR_train_000026.png	no	Does the shiny cylinder have the same size as the purple object behind the small cyan shiny thing?
+261	CLEVR_train_000026.png	yes	Is there any other thing that is the same material as the cyan object?
+262	CLEVR_train_000026.png	yes	There is a yellow metallic ball that is in front of the big blue object; is it the same size as the yellow metallic thing behind the blue metallic cylinder?
+263	CLEVR_train_000026.png	2	What number of big things are metallic balls or cyan rubber cubes?
+264	CLEVR_train_000026.png	2	How many things are both to the right of the cylinder and on the left side of the tiny shiny ball?
+270	CLEVR_train_000027.png	rubber	What is the red block made of?
+271	CLEVR_train_000027.png	small	There is a purple matte object that is the same shape as the large brown object; what is its size?
+272	CLEVR_train_000027.png	4	What number of other objects are the same material as the gray thing?
+273	CLEVR_train_000027.png	yes	Are there the same number of big gray spheres to the left of the red cube and tiny cubes?
+274	CLEVR_train_000027.png	no	There is a shiny thing in front of the brown shiny object; is its size the same as the tiny shiny sphere?
+280	CLEVR_train_000028.png	no	Are there any metallic things right of the large metal object?
+281	CLEVR_train_000028.png	no	Are there the same number of cyan metallic things on the left side of the small rubber thing and cylinders?
+282	CLEVR_train_000028.png	small	What is the size of the other cyan object that is the same shape as the large cyan metallic object?
+283	CLEVR_train_000028.png	yes	There is a small cyan object; is its shape the same as the purple matte object to the left of the blue rubber sphere?
+284	CLEVR_train_000028.png	small	There is a purple rubber object that is left of the sphere that is in front of the brown thing; how big is it?
+290	CLEVR_train_000029.png	small	What is the size of the object that is behind the yellow object?
+291	CLEVR_train_000029.png	sphere	The large metallic object is what shape?
+292	CLEVR_train_000029.png	yes	Do the metal thing that is behind the cyan thing and the matte object behind the tiny matte cube have the same size?
+293	CLEVR_train_000029.png	large	What is the size of the metal sphere that is right of the small purple rubber object in front of the purple rubber ball that is behind the red thing?
+294	CLEVR_train_000029.png	cube	The thing that is left of the tiny object that is behind the rubber thing that is on the left side of the matte cylinder is what shape?
+300	CLEVR_train_000030.png	metal	What material is the big block that is to the left of the big gray rubber block in front of the cyan metallic object to the left of the yellow rubber cylinder?
+301	CLEVR_train_000030.png	large	What is the size of the cube that is both behind the yellow rubber sphere and in front of the small red rubber object?
+302	CLEVR_train_000030.png	yes	Do the small metal thing and the small yellow matte thing have the same shape?
+303	CLEVR_train_000030.png	cylinder	There is a red thing that is the same material as the big cyan block; what is its shape?
+304	CLEVR_train_000030.png	0	What number of big objects are either red things or yellow cylinders?
+310	CLEVR_train_000031.png	cube	There is a tiny rubber thing that is the same color as the large metal object; what shape is it?
+311	CLEVR_train_000031.png	yes	Is there any other thing that has the same color as the large metal sphere?
+312	CLEVR_train_000031.png	yes	Is the color of the small metallic object the same as the tiny matte block that is in front of the small gray rubber block?
+313	CLEVR_train_000031.png	cylinder	What shape is the small purple thing?
+314	CLEVR_train_000031.png	1	How many matte things are the same color as the ball?
